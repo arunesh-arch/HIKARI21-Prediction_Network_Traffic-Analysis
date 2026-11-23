@@ -1,0 +1,13 @@
+
+venv/
+__pycache__/
+*.pyc
+
+ALLFLOWMETER_HIKARI2021.csv
+
+models/*.pkl
+models/*.json
+models/*.csv
+models/*.png
+
+.streamlit/secrets.toml
